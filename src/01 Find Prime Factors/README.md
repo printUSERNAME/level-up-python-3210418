@@ -1,7 +1,6 @@
 # Python Code Challenge #1: Find Prime Factors
 
 Your goal is to implement a function, `get_prime_factors()`, that takes an integer value as the input argument and returns a list containing all of its prime factors.
-# making a change
 ## Example Test Output
 ```console
 >>> get_prime_factors(630)
