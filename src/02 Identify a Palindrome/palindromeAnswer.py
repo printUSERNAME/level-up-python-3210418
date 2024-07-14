@@ -1,7 +1,8 @@
 import re
-#using regular expression (REG-EX): creates a DESCRIPTION of an expression to compare to
+# using regular expression (REG-EX): creates a DESCRIPTION of an expression to compare
+
 def is_palindrome(words):
-  #define variables
+  # define variables
   # return booleans (True or False, can return boolean expressions themselves!)
   # get rid of punctuation and whitespace
 
