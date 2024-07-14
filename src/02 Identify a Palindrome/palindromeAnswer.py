@@ -12,3 +12,10 @@ def is_palindrome(words):
   # (first-->last, second-->second last, ...)
   backwards = forwards[::-1]
   return forwards == backwards # if true, then 'return True' (and vice versa)
+
+
+# commands used in solution video for reference
+if __name__ == '__main__':
+    print(is_palindrome('hello world'))  # false
+    print(is_palindrome("Go hang a salami, I'm a lasagna hog."))  # true
+    print(is_palindrome("This is not a plaindrome, lol 12345"))   # false, my test case***
